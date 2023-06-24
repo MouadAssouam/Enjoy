@@ -1,0 +1,5 @@
+azure-identity
+azure-mgmt-datafactory
+azure-storage-blob
+tenacity
+pymssql
