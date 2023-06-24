@@ -16,17 +16,17 @@ pip install -r requirements.txt
 
 To use this system, follow these steps:
 
-Clone this repository to your local machine.
-Update the script_name.py file with your Azure Blob Storage and Azure SQL Database credentials.
+1/ Clone this repository to your local machine.
+2/ Update the script_name.py file with your Azure Blob Storage and Azure SQL Database credentials.
+
 Run the script_name.py script:
 
-Copy code
-python script_name.py
-This will start the data transfer process. The script provides status updates in the terminal.
+1/ Copy code "python script_name.py"
+-> This will start the data transfer process. The script provides status updates in the terminal.
 
-Please note that this script is part of a larger project that also includes Docker, Logic Apps, and Power BI components. For more information on these components and how to use them, please refer to the project documentation.
+Ps: Please note that this script is part of a larger project that also includes Docker, Logic Apps, and Power BI components. For more information on these components and how to use them, please refer to the project documentation.
 
-Remember to replace script_name.py with the actual name of your Python script. Also, if you have more specific instructions or steps for running the project, include them in the Usage section.
+Remember to replace script.py with the actual name of your Python script. Also, if you have more specific instructions or steps for running the project, include them in the Usage section.
 This Python script is used to automate the transfer of CSV data from Azure Blob Storage to an Azure SQL Database.
 
 
