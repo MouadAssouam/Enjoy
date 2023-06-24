@@ -2,7 +2,7 @@
 
 This repository contains the code for an automated system that transfers CSV data from Azure Blob Storage to an Azure SQL Database. The project leverages Azure Data Factory and Logic Apps to automate the data transfer process, and a Python script running inside a Docker container to handle the data transfer tasks. The Docker container is stored in Azure Container Registry (ACR) and deployed with Azure Container Instances (ACI) for scalability. For data visualization and analysis, Power BI is used.
 
-##Project Structure
+## Contact
 
 script_name.py: The main Python script that sets up the necessary connections with Azure Blob Storage and Azure SQL Database, scans the Blob Storage container for blobs, generates table names based on the blobs' names, creates new tables in the SQL database if they don't exist, and uses Azure Data Factory to transfer data from the blobs to the newly created tables.
 
