@@ -30,3 +30,9 @@ Please note that this script is part of a larger project that also includes Dock
 
 Remember to replace script_name.py with the actual name of your Python script. Also, if you have more specific instructions or steps for running the project, include them in the Usage section.
 This Python script is used to automate the transfer of CSV data from Azure Blob Storage to an Azure SQL Database.
+
+## Contact
+If you encounter any problems or have any questions about this project, feel free to reach out to me. You can contact me at <your-email-address>.
+
+## Issues and Questions
+If you encounter any problems or have any questions about this project, please open an issue or start a discussion. I'll do my best to respond as quickly as I can.
