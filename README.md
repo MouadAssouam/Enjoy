@@ -32,4 +32,4 @@ This Python script is used to automate the transfer of CSV data from Azure Blob 
 
 ## Issues and Questions
 If you encounter any problems or have any questions about this project, please open an issue or start a discussion. I'll do my best to respond as quickly as I can.
-You can contact me at assouam.mouad@ofppt-edu.ma
+You can contact me at mouadassouam@outlook.com
